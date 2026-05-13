@@ -48,4 +48,10 @@ counter2();
 
 counter2();
 
-counter2()
+counter2();
+
+// Arrow functions also create closures.
+
+// In this example, behavior is the same because
+
+// both functions remember the outer variable
